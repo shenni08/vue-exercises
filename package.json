@@ -15,6 +15,8 @@
     "deploy": "vercel build --yes --prod && vercel deploy --prod --prebuilt"
   },
   "dependencies": {
+    "flowbite": "^2.5.1",
+    "flowbite-vue": "^0.1.5",
     "vue": "^3.4.37"
   },
   "devDependencies": {
